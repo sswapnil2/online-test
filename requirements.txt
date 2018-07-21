@@ -1,0 +1,2 @@
+Pillow
+django-model-utils
